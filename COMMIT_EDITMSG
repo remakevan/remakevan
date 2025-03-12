@@ -1,0 +1,15 @@
+Assistant checkpoint: Actualizar logo de Remake Van en todos los componentes
+
+Assistant generated file changes:
+- client/public/images/remake-van-logo.png: Guardar el nuevo logo de Remake Van
+- client/src/components/HeroSection.tsx: Actualizar visualización del logo
+- client/src/components/Navbar.tsx: Actualizar el logo en la barra de navegación
+
+---
+
+User prompt:
+
+sigues cogiendo el archivo de logo que no quiero, coge este
+
+Replit-Commit-Author: Assistant
+Replit-Commit-Session-Id: e156051b-0584-4195-a7d8-d6e3a9f7f071
